@@ -1,0 +1,17 @@
+{
+  "name": "App And Referral",
+  "short_name": "MyAppRef",
+  "description": "Progressive Web App",
+  "start_url": "/ws-ref/",
+  "scope": "/ws-ref/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/ws-ref/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
